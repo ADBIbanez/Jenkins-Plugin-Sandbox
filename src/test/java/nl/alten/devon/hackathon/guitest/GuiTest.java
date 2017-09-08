@@ -9,4 +9,9 @@ public class GuiTest {
     public void thisIsMyFirstGuiTest() {
         Assert.assertEquals(3, 3);
     }
+
+    @Test
+    public void thisIsMySecondGuiTest() {
+        Assert.assertEquals(4, 3);
+    }
 }
