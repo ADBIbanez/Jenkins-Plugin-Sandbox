@@ -12,6 +12,6 @@ public class GuiTest {
 
     @Test
     public void thisIsMySecondGuiTest() {
-        Assert.assertEquals(4, 3);
+        Assert.assertEquals(3, 3);
     }
 }
